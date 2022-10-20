@@ -1,0 +1,26 @@
+HTML: src/*.html
+
+Javascript: src/*.js
+
+CSS: src/*.css
+
+Nginx: nginx/*
+
+Docker: Dockerfile
+
+GIT:
+  - .gitignore
+  - .github/*
+
+ignore:
+  - .gitignore
+  - .gcloudignore
+
+NPM:
+  - package.json
+  - package-lock.json
+  - README.md
+
+documentation: README.MD
+
+src: src/*

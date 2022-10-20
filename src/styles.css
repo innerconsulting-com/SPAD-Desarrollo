@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, 'sans-serif';
+  font-size: 12px;
+  padding: 0 20px;
+}
+
+header {
+  border: 1px solid lightgray;
+  border-radius: 15px;
+  background-color: lightgoldenrodyellow;
+  padding: 10px;
+}
+
+h1 {
+  color: darkslategray;
+  font-size: 1.5rem;
+}
+
+h1 a {
+  color: darkslategray;
+}
+
+p {
+  margin: 5px 0;
+}
+
+footer {
+  border: 1px solid lightgray;
+  border-radius: 15px;
+  background-color: #F4F4F4;
+  padding: 10px;
+}
+
+footer p {
+  color: darkgray;
+}
